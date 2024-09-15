@@ -54,8 +54,8 @@ For any issues, feel free to reach out to me:
 
 ## Images Description
 
-- **Image 1:** A thrilling scene from a racing game featuring cars speeding on a track.
-- **Image 2:** A captivating moment from a fantasy adventure game showcasing a warrior battling mythical creatures.
+- **Image 1:** A thrilling scene from amoung us game.
+- **Image 2:** Playes is showing its team KDA in a Valorant match.
 
 ---
 
